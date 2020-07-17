@@ -31,7 +31,7 @@ The example is explained in more details in the application note [AN2547](http:/
 ## Operation
 
 1. Download the zip file or clone the example to get the source code.
-2. Open `AVR42777Parrot.atsln` in Atmel Studio.
+2. Open `attiny817-digital-sound-recorder-with-parrot-studio.atsln` in Atmel Studio.
 3. Connect the usb power and the debugger with your computer. 
 4. In your menu bar in Atmel Studio go to `Debug->Start Without Debugging` or press `CTRL + ALT + F5`.
 5. Use the buttons on the board to start recording, erase or start playback.

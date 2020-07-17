@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>AVR42777Parrot</AssemblyName>
-    <Name>AVR42777Parrot</Name>
-    <RootNamespace>AVR42777Parrot</RootNamespace>
+    <AssemblyName>attiny817-digital-sound-recorder-with-parrot-studio</AssemblyName>
+    <Name>attiny817-digital-sound-recorder-with-parrot-studio</Name>
+    <RootNamespace>attiny817-digital-sound-recorder-with-parrot-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
